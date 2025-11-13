@@ -8,3 +8,5 @@ you should be able to use `gpg -e -r joeymanny mymessage.txt` to encrypt ur mess
 unless im a dumbass and that's not how you do it, which is very possible
 
 im def a dumbass but you're prolly smarter than me im sure you'll figure it out <3
+
+if this process is wrong please tell me
